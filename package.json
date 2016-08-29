@@ -1,0 +1,15 @@
+{
+  "name": "awstutorialseries",
+  "version": "1.0.0",
+  "description": "Simple lambda example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Puch",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0",
+    "xml2js": "^0.4.17"
+  }
+}
